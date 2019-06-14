@@ -1,0 +1,134 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<style type="text/css">
+body,td,th {
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+</style>
+<table width="650" border="1" align="center" cellpadding="1" cellspacing="1">
+  <tr>
+    <td height="40" align="center" valign="middle">字典名称</td>
+    <td height="40" align="center" valign="middle">字段名称</td>
+    <td height="40" align="center" valign="middle">所属模型</td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">职称</td>
+    <td height="40" align="center" valign="middle"><strong>jobItem</strong></td>
+    <td height="40" align="center" valign="middle">
+		文本域类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">默认头像</td>
+    <td height="40" align="center" valign="middle"><strong>avatarDefault</strong></td>
+    <td height="40" align="center" valign="middle">
+		图片类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">头衔</td>
+    <td height="40" align="center" valign="middle"><strong>crontShow</strong></td>
+    <td height="40" align="center" valign="middle">
+		文本域类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">从业时间</td>
+    <td height="40" align="center" valign="middle"><strong>Times</strong></td>
+    <td height="40" align="center" valign="middle">
+		文本域类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">特长A</td>
+    <td height="40" align="center" valign="middle"><strong>longItemA</strong></td>
+    <td height="40" align="center" valign="middle">
+		文本域类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">特长B</td>
+    <td height="40" align="center" valign="middle"><strong>longItemB</strong></td>
+    <td height="40" align="center" valign="middle">
+		文本域类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">问诊</td>
+    <td height="40" align="center" valign="middle"><strong>wenZhen</strong></td>
+    <td height="40" align="center" valign="middle">
+		文本域类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">预约</td>
+    <td height="40" align="center" valign="middle"><strong>yuYue</strong></td>
+    <td height="40" align="center" valign="middle">
+		文本域类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">名字图片</td>
+    <td height="40" align="center" valign="middle"><strong>namepic</strong></td>
+    <td height="40" align="center" valign="middle">
+		图片类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">擅长</td>
+    <td height="40" align="center" valign="middle"><strong>shanChang</strong></td>
+    <td height="40" align="center" valign="middle">
+		文本域类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">帮助</td>
+    <td height="40" align="center" valign="middle"><strong>bangZhu</strong></td>
+    <td height="40" align="center" valign="middle">
+		文本域类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">简介</td>
+    <td height="40" align="center" valign="middle"><strong>jianjie</strong></td>
+    <td height="40" align="center" valign="middle">
+		文本域类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">第一套头像</td>
+    <td height="40" align="center" valign="middle"><strong>Head1</strong></td>
+    <td height="40" align="center" valign="middle">
+		图片类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">第二套头像</td>
+    <td height="40" align="center" valign="middle"><strong>Head2</strong></td>
+    <td height="40" align="center" valign="middle">
+		图片类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">链接</td>
+    <td height="40" align="center" valign="middle"><strong>link</strong></td>
+    <td height="40" align="center" valign="middle">
+		文本域类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">专家信息</td>
+    <td height="40" align="center" valign="middle"><strong>docinfo</strong></td>
+    <td height="40" align="center" valign="middle">
+		编辑器类型    
+    </td>
+  </tr>
+  <tr>
+    <td height="40" align="center" valign="middle">工作照片</td>
+    <td height="40" align="center" valign="middle"><strong>Workpics</strong></td>
+    <td height="40" align="center" valign="middle">
+		图片类型    
+    </td>
+  </tr>
+</table>
+</html>
